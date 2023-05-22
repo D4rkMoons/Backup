@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+  
+  <!-- Basic Page Needs
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <title>WO Mic - FREE microphone </title>
+  
+  <!-- Mobile Specific Metas
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+
+  <!-- FONT
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <!-- link href="//fonts.googleapis.com/css?family=Raleway:400,300,600" rel="stylesheet" type="text/css" -->
+
+  <!-- CSS
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <link rel="stylesheet" href="../assets/css/simple.css"/>
+  
+	
+</head>
+<body>
+	
+	<div id="logo">
+		  <h1>WO Mic for Linux</h1>
+	</div> 	
+		
+	<div id="map">
+		<span><a href="/">Home</a> > <a href="index.html">WO Mic</a> > Linux</span>
+	</div>
+	
+	<div id="container">
+			
+		<div id="content">
+			<div id="div_setup">
+				<h2>Install WO Mic cient</h2>
+				
+				Currently we only support x86 64-bits architecture. Download <a title="Client program" href="softwares/micclient-x86_64.AppImage">micclient-x86_64.AppImage</a>, then change it to be executable<br/>
+				<div class="code">
+					$ chmod +x micclient-x86_64.AppImage
+				</div>
+			</div>
+		
+			<br/><br/>
+		
+			<div>
+				<h2>WO Mic Client Operations</h2>
+				
+				<ol>		
+					<li>Load aloop module. The module shall form a full-duplex loopback soundcard.<br/>
+						<div class="code">$ sudo modprobe snd-aloop</div><br/>
+					</li>
+								
+					<li> Connect from client.
+						<p>
+							Run below commands to connect. WO Mic client shall write audio data into loopback device. If you meet glitches, please try to run the program as root so that its scheduling can be more aggressive.
+						</p>
+						<ul>
+							<li>
+								Conenct by Wifi. You can find the IP address on WO Mic app UI. <br/>
+								<div class="code">
+									$ ./micclient-x86_64.AppImage -t Wifi 192.168.1.100
+								</div> <br/>
+							</li>
+							<li>Connect by Bluetooth. xx:xx:xx:xx:xx:xx represents phone Bluetooth address. You can query it on your phone:<br/> <em>Settings</em> -> <em>About phone</em> -> <em>Status</em> -> <em>Bluetooth address</em>.<br/>
+								<div class="code">$ ./micclient-x86_64.AppImage -t Bluetooth xx:xx:xx:xx:xx:xx</div>
+								
+							</li>
+						</ul>
+					</li>
+									
+					<li> Now third party program can make use of captured data through loopback device. One example: <br/>
+						<div class="code">$ arecord -c 1 -r 48000 -f S16_LE -D "hw:CARD=Loopback,DEV=1,SUBDEV=0" foo.wav</div>
+					</li>
+				</ol>
+			</div>
+
+		</div> <!-- content -->
+
+	</div>  <!-- container -->
+
+	
+		<div id="footer">
+			&copy;2020 Wolicheng Tech. All rights reserved.
+		</div>
+
+</body>
+</html>
