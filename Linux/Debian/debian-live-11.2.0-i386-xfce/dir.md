@@ -1,0 +1,110 @@
+PS E:\Backup\ISO\Debian\go> dir
+
+
+    Directory: E:\Backup\ISO\Debian\go
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        2023-05-06   1:36 AM       26214400 debian-live-11.2.0-i386-xfce.z01
+-a----        2023-05-06   1:36 AM       26214400 debian-live-11.2.0-i386-xfce.z02
+-a----        2023-05-06   1:36 AM       26214400 debian-live-11.2.0-i386-xfce.z03
+-a----        2023-05-06   1:36 AM       26214400 debian-live-11.2.0-i386-xfce.z04
+-a----        2023-05-06   1:36 AM       26214400 debian-live-11.2.0-i386-xfce.z05
+-a----        2023-05-06   1:36 AM       26214400 debian-live-11.2.0-i386-xfce.z06
+-a----        2023-05-06   1:36 AM       26214400 debian-live-11.2.0-i386-xfce.z07
+-a----        2023-05-06   1:36 AM       26214400 debian-live-11.2.0-i386-xfce.z08
+-a----        2023-05-06   1:36 AM       26214400 debian-live-11.2.0-i386-xfce.z09
+-a----        2023-05-06   1:36 AM       26214400 debian-live-11.2.0-i386-xfce.z10
+-a----        2023-05-06   1:36 AM       26214400 debian-live-11.2.0-i386-xfce.z11
+-a----        2023-05-06   1:36 AM       26214400 debian-live-11.2.0-i386-xfce.z12
+-a----        2023-05-06   1:36 AM       26214400 debian-live-11.2.0-i386-xfce.z13
+-a----        2023-05-06   1:36 AM       26214400 debian-live-11.2.0-i386-xfce.z14
+-a----        2023-05-06   1:36 AM       26214400 debian-live-11.2.0-i386-xfce.z15
+-a----        2023-05-06   1:36 AM       26214400 debian-live-11.2.0-i386-xfce.z16
+-a----        2023-05-06   1:36 AM       26214400 debian-live-11.2.0-i386-xfce.z17
+-a----        2023-05-06   1:36 AM       26214400 debian-live-11.2.0-i386-xfce.z18
+-a----        2023-05-06   1:36 AM       26214400 debian-live-11.2.0-i386-xfce.z19
+-a----        2023-05-06   1:36 AM       26214400 debian-live-11.2.0-i386-xfce.z20
+-a----        2023-05-06   1:36 AM       26214400 debian-live-11.2.0-i386-xfce.z21
+-a----        2023-05-06   1:36 AM       26214400 debian-live-11.2.0-i386-xfce.z22
+-a----        2023-05-06   1:36 AM       26214400 debian-live-11.2.0-i386-xfce.z23
+-a----        2023-05-06   1:36 AM       26214400 debian-live-11.2.0-i386-xfce.z24
+-a----        2023-05-06   1:36 AM       26214400 debian-live-11.2.0-i386-xfce.z25
+-a----        2023-05-06   1:36 AM       26214400 debian-live-11.2.0-i386-xfce.z26
+-a----        2023-05-06   1:36 AM       26214400 debian-live-11.2.0-i386-xfce.z27
+-a----        2023-05-06   1:36 AM       26214400 debian-live-11.2.0-i386-xfce.z28
+-a----        2023-05-06   1:36 AM       26214400 debian-live-11.2.0-i386-xfce.z29
+-a----        2023-05-06   1:36 AM       26214400 debian-live-11.2.0-i386-xfce.z30
+-a----        2023-05-06   1:36 AM       26214400 debian-live-11.2.0-i386-xfce.z31
+-a----        2023-05-06   1:36 AM       26214400 debian-live-11.2.0-i386-xfce.z32
+-a----        2023-05-06   1:36 AM       26214400 debian-live-11.2.0-i386-xfce.z33
+-a----        2023-05-06   1:36 AM       26214400 debian-live-11.2.0-i386-xfce.z34
+-a----        2023-05-06   1:36 AM       26214400 debian-live-11.2.0-i386-xfce.z35
+-a----        2023-05-06   1:36 AM       26214400 debian-live-11.2.0-i386-xfce.z36
+-a----        2023-05-06   1:36 AM       26214400 debian-live-11.2.0-i386-xfce.z37
+-a----        2023-05-06   1:36 AM       26214400 debian-live-11.2.0-i386-xfce.z38
+-a----        2023-05-06   1:36 AM       26214400 debian-live-11.2.0-i386-xfce.z39
+-a----        2023-05-06   1:36 AM       26214400 debian-live-11.2.0-i386-xfce.z40
+-a----        2023-05-06   1:36 AM       26214400 debian-live-11.2.0-i386-xfce.z41
+-a----        2023-05-06   1:36 AM       26214400 debian-live-11.2.0-i386-xfce.z42
+-a----        2023-05-06   1:36 AM       26214400 debian-live-11.2.0-i386-xfce.z43
+-a----        2023-05-06   1:36 AM       26214400 debian-live-11.2.0-i386-xfce.z44
+-a----        2023-05-06   1:36 AM       26214400 debian-live-11.2.0-i386-xfce.z45
+-a----        2023-05-06   1:36 AM       26214400 debian-live-11.2.0-i386-xfce.z46
+-a----        2023-05-06   1:36 AM       26214400 debian-live-11.2.0-i386-xfce.z47
+-a----        2023-05-06   1:36 AM       26214400 debian-live-11.2.0-i386-xfce.z48
+-a----        2023-05-06   1:36 AM       26214400 debian-live-11.2.0-i386-xfce.z49
+-a----        2023-05-06   1:36 AM       26214400 debian-live-11.2.0-i386-xfce.z50
+-a----        2023-05-06   1:36 AM       26214400 debian-live-11.2.0-i386-xfce.z51
+-a----        2023-05-06   1:36 AM       26214400 debian-live-11.2.0-i386-xfce.z52
+-a----        2023-05-06   1:36 AM       26214400 debian-live-11.2.0-i386-xfce.z53
+-a----        2023-05-06   1:36 AM       26214400 debian-live-11.2.0-i386-xfce.z54
+-a----        2023-05-06   1:36 AM       26214400 debian-live-11.2.0-i386-xfce.z55
+-a----        2023-05-06   1:36 AM       26214400 debian-live-11.2.0-i386-xfce.z56
+-a----        2023-05-06   1:36 AM       26214400 debian-live-11.2.0-i386-xfce.z57
+-a----        2023-05-06   1:36 AM       26214400 debian-live-11.2.0-i386-xfce.z58
+-a----        2023-05-06   1:36 AM       26214400 debian-live-11.2.0-i386-xfce.z59
+-a----        2023-05-06   1:36 AM       26214400 debian-live-11.2.0-i386-xfce.z60
+-a----        2023-05-06   1:36 AM       26214400 debian-live-11.2.0-i386-xfce.z61
+-a----        2023-05-06   1:36 AM       26214400 debian-live-11.2.0-i386-xfce.z62
+-a----        2023-05-06   1:36 AM       26214400 debian-live-11.2.0-i386-xfce.z63
+-a----        2023-05-06   1:36 AM       26214400 debian-live-11.2.0-i386-xfce.z64
+-a----        2023-05-06   1:36 AM       26214400 debian-live-11.2.0-i386-xfce.z65
+-a----        2023-05-06   1:36 AM       26214400 debian-live-11.2.0-i386-xfce.z66
+-a----        2023-05-06   1:36 AM       26214400 debian-live-11.2.0-i386-xfce.z67
+-a----        2023-05-06   1:36 AM       26214400 debian-live-11.2.0-i386-xfce.z68
+-a----        2023-05-06   1:36 AM       26214400 debian-live-11.2.0-i386-xfce.z69
+-a----        2023-05-06   1:36 AM       26214400 debian-live-11.2.0-i386-xfce.z70
+-a----        2023-05-06   1:36 AM       26214400 debian-live-11.2.0-i386-xfce.z71
+-a----        2023-05-06   1:36 AM       26214400 debian-live-11.2.0-i386-xfce.z72
+-a----        2023-05-06   1:36 AM       26214400 debian-live-11.2.0-i386-xfce.z73
+-a----        2023-05-06   1:36 AM       26214400 debian-live-11.2.0-i386-xfce.z74
+-a----        2023-05-06   1:36 AM       26214400 debian-live-11.2.0-i386-xfce.z75
+-a----        2023-05-06   1:36 AM       26214400 debian-live-11.2.0-i386-xfce.z76
+-a----        2023-05-06   1:36 AM       26214400 debian-live-11.2.0-i386-xfce.z77
+-a----        2023-05-06   1:36 AM       26214400 debian-live-11.2.0-i386-xfce.z78
+-a----        2023-05-06   1:36 AM       26214400 debian-live-11.2.0-i386-xfce.z79
+-a----        2023-05-06   1:36 AM       26214400 debian-live-11.2.0-i386-xfce.z80
+-a----        2023-05-06   1:36 AM       26214400 debian-live-11.2.0-i386-xfce.z81
+-a----        2023-05-06   1:36 AM       26214400 debian-live-11.2.0-i386-xfce.z82
+-a----        2023-05-06   1:36 AM       26214400 debian-live-11.2.0-i386-xfce.z83
+-a----        2023-05-06   1:36 AM       26214400 debian-live-11.2.0-i386-xfce.z84
+-a----        2023-05-06   1:36 AM       26214400 debian-live-11.2.0-i386-xfce.z85
+-a----        2023-05-06   1:36 AM       26214400 debian-live-11.2.0-i386-xfce.z86
+-a----        2023-05-06   1:36 AM       26214400 debian-live-11.2.0-i386-xfce.z87
+-a----        2023-05-06   1:36 AM       26214400 debian-live-11.2.0-i386-xfce.z88
+-a----        2023-05-06   1:36 AM       26214400 debian-live-11.2.0-i386-xfce.z89
+-a----        2023-05-06   1:36 AM       26214400 debian-live-11.2.0-i386-xfce.z90
+-a----        2023-05-06   1:36 AM       26214400 debian-live-11.2.0-i386-xfce.z91
+-a----        2023-05-06   1:36 AM       26214400 debian-live-11.2.0-i386-xfce.z92
+-a----        2023-05-06   1:36 AM       26214400 debian-live-11.2.0-i386-xfce.z93
+-a----        2023-05-06   1:36 AM       26214400 debian-live-11.2.0-i386-xfce.z94
+-a----        2023-05-06   1:36 AM       26214400 debian-live-11.2.0-i386-xfce.z95
+-a----        2023-05-06   1:36 AM       26214400 debian-live-11.2.0-i386-xfce.z96
+-a----        2023-05-06   1:36 AM       26214400 debian-live-11.2.0-i386-xfce.z97
+-a----        2023-05-06   1:36 AM       26214400 debian-live-11.2.0-i386-xfce.z98
+-a----        2023-05-06   1:36 AM       14680382 debian-live-11.2.0-i386-xfce.zip
+
+
+PS E:\Backup\ISO\Debian\go>
