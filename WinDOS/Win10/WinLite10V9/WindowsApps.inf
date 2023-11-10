@@ -1,0 +1,10 @@
+; This apps won't be deleted
+Microsoft.DesktopAppInstaller
+Microsoft.WindowsCalculator
+Microsoft.StorePurchaseApp
+Microsoft.WindowsStore
+Microsoft.Xbox.TCUI
+Microsoft.XboxApp
+Microsoft.XboxGameOverlay
+Microsoft.XboxIdentityProvider
+Microsoft.XboxSpeechToTextOverlay
