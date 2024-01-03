@@ -1,0 +1,351 @@
+@import url(https://fonts.googleapis.com/css2?family=Helvetica:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap);
+
+@import url(https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap);
+
+#app {
+  background-color: black
+}
+span.sc-truncate {
+  color: cyan
+}
+li a span {
+  color: orange }
+a.sc-link-light {
+  color: #e65904;
+  font-weight: 300;
+  font-style: normal;
+}
+a.sc-link-dark, a:hover {
+  color: #32e1ea;
+  font-weight: 500;
+  font-style: normal;
+  font-family: Helvetica;
+  font-size: 15px;
+  border-style: dashed;
+  border-top-width: 0px;
+  border-left-width: 0px;
+  border-right-width: 0px;
+  border-bottom-width: 1px;
+  border-color: #00ff00;
+}
+.sc-type-light {
+  font-weight: 100;
+  color: #39d70c;
+}
+a.g-tabs-link {
+  color: #fffb3a ; 
+}
+.sc-classic a.g-tabs-link.active {
+  color: #39d70c;
+  border-color: Red;
+  cursor: default;
+}
+
+autoTagger__wrapper {
+  background-color: black;
+color: black;
+
+}
+
+div.l-about-right {
+  background-color: #000000;
+  color: #000000;
+}
+
+autoTagger {
+  background-color: #bf9000;
+  color: #1155cc;
+}
+
+autoTagger sc-type-small sc-text-body loadedWithData {
+  color: #1155cc;
+  background-color: #cc0000;
+}
+
+div.autoTagger__content.sc-background-light.sc-pb-1x.sc-px-2x.sc-mb-2x {
+  background-color: #0a1a02;
+  color: #00ff00;
+}
+
+button.sc-button-secondary.sc-mr-2x.sc-button.sc-button-medium.sc-button-nostyle {
+  color: #cc0000;
+  background-color: #000000;
+  border-color: #cc0000;
+  border-style: solid;
+  border-top-width: 1px;
+  border-bottom-width: 1px;
+  border-right-width: 1px;
+  border-left-width: 1px;
+}
+
+button.sc-button-cta.sc-button-primary.sc-button.sc-button-medium {
+  color: #00ff00;
+  background-color: #000000;
+  border-style: solid;
+  border-bottom-width: 1px;
+  border-right-width: 1px;
+  border-top-width: 1px;
+  border-left-width: 1px;
+  border-color: #00ff00;
+}
+
+div.autoTagger__fields.sc-background-light.sc-mb-2x.sc-pt-1x.sc-px-2x {
+  background-color: #000000;
+  color: #00c4c4;
+}
+
+div.tokenInput__wrapper.tagInput__wrapper.sc-input.sc-input-large {
+  background-color: #000000;
+  color: #ff80c0;
+}
+
+input.tagInput__input.tokenInput__input {
+  background-color: #000000;
+  color: #ff00ff;
+}
+
+section.playControls__inner {
+  background-color: #000000;
+  border-style: dashed;
+  border-color: #674ea7;
+  color: #000000;
+  border-left-width: 2px;
+  border-right-width: 2px;
+  border-top-width: 2px;
+}
+
+div.playControls__elements {
+  background-color: #000000;
+}
+
+button.playControl.sc-ir.playControls__control.playControls__play.playing {
+  background-color: #fdd835;
+  border-color: #9c27b0;
+  border-style: solid;
+  border-top-width: 5px;
+  border-bottom-width: 4px;
+}
+
+button.skipControl.sc-ir.playControls__control.playControls__prev.skipControl__previous {
+  background-color: #fdd835;
+  border-color: #47b8b3;
+  border-style: solid;
+  border-top-width: 5px;
+  border-bottom-width: 5px;
+}
+
+button.playControl.sc-ir.playControls__control.playControls__play {
+  border-color: #910000;
+  background-color: #47ed29;
+  border-top-width: 5px;
+  border-bottom-width: 4px;
+  border-style: solid;
+}
+
+button.skipControl.sc-ir.playControls__control.playControls__next.skipControl__next {
+  border-color: #47b8b3;
+  border-style: solid;
+  border-bottom-width: 5px;
+  border-top-width: 5px;
+  background-color: #fdd835;
+}
+
+button.shuffleControl.sc-ir.m-shuffling {
+  background-color: #24700e;
+}
+
+button.repeatControl.sc-ir.m-all {
+  background-color: #24700e;
+}
+
+div.playbackTimeline__timePassed.sc-text-primary.sc-text-h5 {
+  color: #00ff00;
+  border-color: #d94f5c;
+  border-style: dashed;
+  background-color: #000000;
+  font-size: 18px;
+  padding-top: 0px;
+  border-top-width: 0px;
+  border-right-width: 01px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  margin-bottom: 3px;
+  margin-top: 4px;
+  border-bottom-width: 3px;
+  padding-right: 3px;
+  border-left-width: 0px;
+  font-weight: 900;
+  font-style: normal;
+}
+
+div.playbackTimeline__duration.sc-text-primary.sc-text-h5 {
+  color: #fa0c05;
+  font-size: 18px;
+  font-weight: 900;
+  font-style: normal;
+}
+
+button.volume__button.volume__speakerIcon.sc-ir {
+  background-color: #000000;
+  border-top-width: 0px;
+  border-style: none;
+  border-right-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 1px;
+  color: #134f5c;
+  font-weight: 100;
+  font-style: normal;
+}
+
+a.playbackSoundBadge__titleLink.sc-truncate.sc-text-h5.sc-link-primary {
+  color: #dea8fb;
+  font-family: Montserrat;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 14px;
+  text-decoration: overline;
+  border-color: #00ffff;
+  border-style: dashed;
+  border-top-width: 0px;
+  border-left-width: 0px;
+  border-right-width: 0px;
+  border-bottom-width: 1px;
+}
+
+a.playbackSoundBadge__lightLink.sc-link-light.sc-link-secondary.sc-truncate.sc-text-h5 {
+  font-weight: 700;
+  font-style: normal;
+  font-size: 18px;
+}
+
+div.trackItem.g-flex-row.sc-type-small.sc-text-body.sc-type-light.sc-text-secondary.m-interactive.m-playable.active {
+  background-color: #262826;
+  border-top-width: 3px;
+  border-right-width: 2px;
+  border-bottom-width: 1px;
+  border-left-width: 4px;
+  border-color: #674ea7;
+  border-style: dashed;
+}
+
+header.header.sc-selection-disabled.fixed.g-z-index-header.sc-text-h4.g-dark.peace-logo.show {
+  background-color: #000000;
+}
+
+span.trackItem__playCount.sc-ministats.sc-ministats-medium.sc-ministats-plays {
+  color: #ff80c0;
+}
+
+html {
+  background-color: #010600;
+  border-style: dashed;
+  padding-bottom: 0px;
+  padding-top: 0px;
+  border-bottom-width: 0px;
+  margin-bottom: 0px;
+  height: 0px;
+  padding-right: 0px;
+  border-top-width: 0px;
+  width: 0px;
+}
+
+body.sc-classic {
+  padding-bottom: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-left: 0px;
+  border-top-width: 0px;
+  border-bottom-width: 0px;
+}
+
+h2.collectionSection__subHeading.sc-text-light.sc-text-primary.sc-type-large.sc-text-h3 {
+  color: #9900ff;
+}
+
+input.textfield__input.sc-input.sc-input-medium {
+  color: #ffff40;
+  background-color: #000000;
+  font-size: 18px;
+  font-weight: 400;
+  font-style: normal;
+  font-family: Helvetica;
+  border-color: #9900ff;
+}
+
+button.sc-button-dropdown.sc-button.sc-button-medium.sc-button-responsive.sc-button-secondary {
+  background-color: #000000;
+}
+
+div.collectionSection__action.g-flex-row-centered {
+  background-color: #20124d;
+}
+
+div.linkMenu__list {
+  background-color: #000000;
+}
+
+button.sc-button.sc-button-tertiary.sc-text-h4.collectionSection__action.sc-button.sc-button-small.sc-button-responsive {
+  background-color: #000000;
+  color: #fff2cc;
+}
+
+input.headerSearch__input.sc-input.g-all-transitions-300 {
+  background-color: #431e51;
+  color: #ffffff;
+}
+
+input.commentForm__input {
+  color: #00ffff;
+  background-color: #0d0202;
+  font-weight: 500;
+  font-style: normal;
+  border-style: solid;
+  border-color: #ff0000;
+  border-bottom-width: 1px;
+  border-top-width: 1px;
+  border-left-width: 1px;
+  border-right-width: 1px;
+}
+
+div.commentForm__wrapper.commentForm__transition {
+  background-color: #000000;
+}
+
+div.soundActions.sc-button-toolbar.soundActions__small {
+  background-color: #040105;
+}
+
+a.soundActions__purchaseLink.sc-truncate.sc-buylink.sc-buylink-responsive.sc-buylink-small.sc-buylink-default {
+  background-color: #c2670c;
+}
+
+button.sc-button-repost.sc-button-secondary.sc-button.sc-button-small.sc-button-responsive {
+  background-color: #ffe599;
+}
+
+button.sc-button-share.sc-button-secondary.sc-button-secondary.sc-button.sc-button-small.sc-button-responsive {
+  background-color: #93c47d;
+}
+
+button.sc-button-copylink.sc-button-secondary.sc-button.sc-button-small.sc-button-responsive {
+  background-color: #76a5af;
+}
+
+button.sc-button-more.sc-button-more.sc-button.sc-button-small.sc-button-responsive {
+  background-color: #8e7cc3;
+}
+
+button.sc-button-like.sc-button-secondary.sc-button.sc-button-small.sc-button-responsive.sc-button-selected {
+  background-color: #000000;
+}
+
+div.volume__sliderWrapper {
+  background-color: #0c0a1b;
+  border-style: solid;
+  border-color: #ffff00;
+  border-bottom-width: 1px;
+  border-right-width: 1px;
+  border-left-width: 1px;
+  color: #cc0000;
+}
+
